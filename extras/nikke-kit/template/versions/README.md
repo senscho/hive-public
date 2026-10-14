@@ -1,0 +1,1 @@
+All image versions, never deleted: <name>-ref-vN.jpg, <name>-card-vN.jpg, <name>-avatar-vN.png, <costume>-vN-*.jpg. Log in prompts/README.md. Do not commit official game art here — only your own generated images.
